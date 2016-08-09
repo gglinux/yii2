@@ -1,4 +1,5 @@
 Yii PHP Framework Version 2 中文
+test就哈哈哈哈哈哈和
 ===========================
 
 Thank you for choosing Yii 2 - a modern PHP framework designed for professional Web development.
