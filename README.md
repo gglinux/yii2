@@ -2,6 +2,8 @@ Yii PHP Framework Version 2 中文
 test就哈哈哈哈哈哈和
 ===========================
 
+撒的发神经啊
+
 Thank you for choosing Yii 2 - a modern PHP framework designed for professional Web development.
 
 Yii 2 is a complete rewrite of its previous version Yii 1.1 which is one of the most popular PHP frameworks.
